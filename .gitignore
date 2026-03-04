@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.db
+.env
+.env.*
+!.env.example
+
+# Node
+node_modules/
+.next/
+out/
+.env.local
+.env.*.local
+
+# OS
+.DS_Store
+Thumbs.db
